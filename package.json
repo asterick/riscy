@@ -1,0 +1,29 @@
+{
+  "name": "riscy",
+  "version": "1.0.0",
+  "description": "RISC-V Emulation frmaework w/JIT backend",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asterick/riscy.git"
+  },
+  "keywords": [
+    "risc-v",
+    "emulation",
+    "framework",
+    "webassembly",
+    "jit"
+  ],
+  "author": "Bryon Vandiver",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/asterick/riscy/issues"
+  },
+  "homepage": "https://github.com/asterick/riscy#readme"
+}
